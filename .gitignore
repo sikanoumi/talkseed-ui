@@ -1,0 +1,15 @@
+﻿node_modules/
+.next/
+.env
+.env.local
+.env.production
+deploy_ui_root/
+ui_deploy.zip
+.vercel/
+*.log
+
+.obsidian/
+env.production
+*.bak
+tree-all.txt
+tree-ui-deploy.txt
